@@ -1,0 +1,20 @@
+# RPG Maker MZ local settings and save files
+save/
+localconfig.json
+
+# Web Browser / NW.js cache
+package-lock.json
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: Large asset folders 
+# (Only ignore if you manage assets separately or use LFS)
+# img/
+# audio/
+
+test_output_cen034.txt
+test_output.txt
